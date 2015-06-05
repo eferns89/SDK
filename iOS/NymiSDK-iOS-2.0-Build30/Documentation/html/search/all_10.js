@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['scanning',['scanning',['../glossary_scanning.html',1,'']]],
+  ['samples',['samples',['../struct_ncl_event_ecg.html#a0f5c98c17e83c875ed615f8cc6c7d18b',1,'NclEventEcg']]],
+  ['security_20tools',['Security Tools',['../group__security.html',1,'']]],
+  ['security_20constants',['Security Constants',['../group__security_constants.html',1,'']]],
+  ['security_20functions',['Security Functions',['../group__security_functions.html',1,'']]],
+  ['security_20types',['Security Types',['../group__security_types.html',1,'']]],
+  ['setadapter',['setAdapter',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#ad79f79bd25a2cc3a6470e736907052d4',1,'com::bionym::ncl::Ncl']]],
+  ['setipandport',['setIpAndPort',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#a87068c166ce9d4b73e9fe6bbc90aa350',1,'com::bionym::ncl::Ncl']]],
+  ['sig',['sig',['../struct_ncl_event_sig.html#a8c89e7948f81d7f3b7c8d79fde16de96',1,'NclEventSig::sig()'],['../struct_ncl_event_global_sig.html#acdedd413baa7520d36d3f546bc29eabe',1,'NclEventGlobalSig::sig()'],['../struct_ncl_event.html#a3a8e1f67d11cddda4af81f10b427450a',1,'NclEvent::sig()']]],
+  ['sign',['sign',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#a78759be20b554f9418ad0c85637b3b87',1,'com::bionym::ncl::Ncl']]],
+  ['signadv',['signAdv',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#af27318dcfe19d867f5e1fe5bd844c8af',1,'com::bionym::ncl::Ncl']]],
+  ['sk',['sk',['../struct_ncl_event_created_sk.html#ae9320f617cf358d865a9d5635963d457',1,'NclEventCreatedSk::sk()'],['../struct_ncl_event_got_sk.html#ab9a2bdd3f416f2b77ab363b69ce98de9',1,'NclEventGotSk::sk()']]],
+  ['startdiscovery',['startDiscovery',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#aa480d4e0ee9d3cd517d33bd35173f221',1,'com::bionym::ncl::Ncl']]],
+  ['startecgstream',['startEcgStream',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#abf666e6b46f43cc5551f80728450f628',1,'com::bionym::ncl::Ncl']]],
+  ['startfinding',['startFinding',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#a6b04d54e30de6bccf2fa386f3c9dfbfd',1,'com::bionym::ncl::Ncl']]],
+  ['stopecgstream',['stopEcgStream',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#a8202311fa3c51d0043f8018af7b9b14b',1,'com::bionym::ncl::Ncl']]],
+  ['stopscan',['stopScan',['../classcom_1_1bionym_1_1ncl_1_1_ncl.html#a978190f28e4dc82912c0085f2c8bca83',1,'com::bionym::ncl::Ncl']]],
+  ['stream_20constants',['Stream Constants',['../group__stream_constants.html',1,'']]],
+  ['stream_20functions',['Stream Functions',['../group__stream_functions.html',1,'']]],
+  ['streams',['Streams',['../group__streams.html',1,'']]],
+  ['stream_20types',['Stream Types',['../group__stream_types.html',1,'']]],
+  ['strong',['strong',['../struct_ncl_provision.html#acd5329c6713acb4c885335a4d9b61040',1,'NclProvision::strong()'],['../struct_ncl_event_find.html#aadbba1f1d9912b5ff60cb2c5b3f9cdfe',1,'NclEventFind::strong()']]],
+  ['success',['success',['../struct_ncl_event_init.html#aae919d9ea26441d1137e0d6580552df1',1,'NclEventInit']]],
+  ['security_20functions',['Security Functions',['../tutorial_security.html',1,'']]],
+  ['storing_20provisions',['Storing Provisions',['../tutorial_store_provision.html',1,'']]]
+];
