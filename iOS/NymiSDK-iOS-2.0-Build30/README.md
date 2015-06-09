@@ -18,9 +18,9 @@ Prerequisites:
 	- OSX 10.9 and higher
 	- XCode 6.0 and higher 
 	- libNclNet.dylib and libNcl.dylib must be copied into /usr/local/lib/
--iOS
-	- iOS 8.1 and higher
+- iOS
 	- XCode 6.0 and higher 
+	- iOS 8.1 and higher 
 
 Package Contents:
 -----------------
